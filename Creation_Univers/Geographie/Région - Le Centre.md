@@ -1,1 +1,2 @@
-La région centrale rassemble la nation de [[Taman Busuk]]
+La région centrale rassemble la nation 
+- Le [[Taman Busuk]]
