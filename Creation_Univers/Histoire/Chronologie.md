@@ -10,4 +10,3 @@ Le monde est découpé en plusieurs ères :
 
 Le monde possède aussi du Lore qui se déroule après le début de notre campagne, il est résumé ici à des fins d'inspiration mais est sujet à changement selon les actions des joueurs
 - [[Fin de la Guerre de la Lance (Hypothétique)]]
-- test 
