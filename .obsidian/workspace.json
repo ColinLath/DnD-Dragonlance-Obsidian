@@ -11,30 +11,14 @@
             "id": "1a393a07a2ec2625",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Histoire/Chronologie.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Chronologie"
-            }
-          }
-        ]
-      },
-      {
-        "id": "49bbc9adffff2432",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "482dfcfb488a224f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -185,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Plan"
             }
+          },
+          {
+            "id": "0719518b7e88cf0e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +195,11 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a393a07a2ec2625",
+  "active": "0719518b7e88cf0e",
   "lastOpenFiles": [
     "Histoire/Chronologie.md",
     "Histoire",
