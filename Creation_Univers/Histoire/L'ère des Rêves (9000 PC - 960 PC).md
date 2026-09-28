@@ -3,7 +3,7 @@
 	- Les [[Chevaliers Solamniques]]
 	- Les [[Mages de Haute Sorcellerie]]
 	- Les [[Nains de Thorbardin]]
-- 2 Guerres Draconiques
+- La 2e Guerre Draconique a lieu
 - Conflit de la 3e Guerre Draconique qui marque la fin de l'ère 
 	- Héro Human Fléau-des-Dragons reçoit la 1ère [[Lancedragon]]
 	- Utilisée pour vaincre et exiler [[Takhisis]]

@@ -1,0 +1,10 @@
+- Dû au rituel du prêtre-roi les dieux sont en colère 
+- Ils prononcent les Treize Semonces pour le dissuader
+	- Les arbres pleurent du sang 
+	- Des incendies spontanés ont lieu
+	- Des cyclones frappent son temple 
+	- Certains fidèles des dieux reçoivent la mission d'empêcher le rituel - mais sans succès 
+- [[Les Dieux]] emmènent leurs fidèles loin de la cité 
+- Ils font tomber une montagne enflammée sur Istar
+- Créent une [[Mer de Sang d'Istar|Mer de Sang]] scindant l'Ansalonie en deux, qui détruit ports, villes et régions
+- [[Les Dieux]] cessent de répondre aux prières et finissent par être oublier de Krynn

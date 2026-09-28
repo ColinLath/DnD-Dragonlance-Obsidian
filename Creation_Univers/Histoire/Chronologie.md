@@ -1,9 +1,9 @@
 Le monde est découpé en plusieurs ères :
-- [[L'ère de la Création]]
-- [[L'ère des Rêves]]
-- [[L'ère du Pouvoir (1000 PC - 0 AC)]]
+- [[L'ère de la Création (Indéterminé - 9000 PC)]]
+- [[L'ère des Rêves (9000 PC - 960 PC)]]
+- [[L'ère du Pouvoir (960 PC - 0 AC)]]
 - [[Le Cataclysme (0 AC)]]
-- [[Le Règne des Ténèbres]]
+- [[Le Règne des Ténèbres (1 AC - 383 AC)]]
 	- [[Le retour de Thakisis]]
 	- [[La Guerre de la Lance]]
 	- [[Début de la Campagne]]

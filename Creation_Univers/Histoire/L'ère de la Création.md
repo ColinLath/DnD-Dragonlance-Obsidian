@@ -1,2 +1,0 @@
-- Époque où les [[Les Dieux|Dieux]] ont forgés le monde.
-- Il ne reste que quelques écrits et légendes de cette période mais dont personne ne tient compte.

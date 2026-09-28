@@ -1,0 +1,3 @@
+- Époque où les [[Les Dieux|Dieux]] ont forgés le monde.
+- Il ne reste que quelques écrits et légendes de cette période mais dont personne ne tient compte.
+- La 1ère Guerre Draconique a lieu et donne naissance aux races intelligentes (Elfes, Humains, ...)

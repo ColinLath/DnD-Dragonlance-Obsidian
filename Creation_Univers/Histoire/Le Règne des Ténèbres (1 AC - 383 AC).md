@@ -1,0 +1,4 @@
+- Le règne des Ténèbres (aussi appelé ère du Désespoir) est séparé en deux périodes 
+- L'ère de l'Obscurité (1 AC - 331 AC)
+	- 
+- L'ère des Dragons (332 AC - 383 AC)
