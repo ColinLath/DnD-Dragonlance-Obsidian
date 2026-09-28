@@ -1,0 +1,8 @@
+- L'ère du Pouvoir débute 1000 ans avant le [[Cataclysme]]
+- Nations humaines prospèrent et conquièrent une grande partie d'Ansalonie
+- Cité d'Istar devient un empire notamment grâce à son alliance avec les [[Chevaliers Solamniques]]
+	- Est gouvernée par des prêtres-rois qui la considèrent être le centre du monde. 
+	- Ils s'auto proclament messagers saints des [[Les Dieux|dieux]] du bien
+	- Ils deviennent de plus en plus radicaux et déclarent la guerre à tout ce qui est jugé "maléfique"
+	- Le dernier prêtre-roi, Beldinas Pilofiro, tente un rituel pour devenir un dieu et régner sur Krynn
+		- Déclencheur du [[Le Cataclysme (0 AC)|Cataclysme]]

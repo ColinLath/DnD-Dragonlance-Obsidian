@@ -1,0 +1,16 @@
+- Berger nécromancien qui ressuscite ses moutons morts après que une épidémie ait ravagé son troupeau 
+- Un prince qui veut qu'on lui ramène sa promise qui s'est faite kidnapper (elle s'est enfuie)
+- Braquage dans une tour pour récupérer un artefact magique (extension dnd vault)
+- Scénars - objectif aider à l'effort de guerre
+	- acte 0 ?
+	- faire ses preuves, 2-3 missions avant de se faire un nom
+	- révélation de la guerre
+	- acte 1 ?
+	- Enquêter sur la magie du monde
+	- Les mages avec Dieux de la Lune
+	- Les prêtres avec les Dieux
+	- retrouver sceptres bleu qui dit que y a des deux ?
+	- acte 2 ?
+	- retrouver preuves que les oeufs de dragons métalliques sont corrompus
+	- ramener Paladine et les dragons métalliques dans le combat
+

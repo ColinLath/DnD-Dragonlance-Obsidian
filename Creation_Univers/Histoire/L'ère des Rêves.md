@@ -1,0 +1,10 @@
+- Les héros affrontent les forces du Mal
+- Création des grands ordres de Krynn
+	- Les [[Chevaliers Solamniques]]
+	- Les [[Mages de Haute Sorcellerie]]
+	- Les [[Nains de Thorbardin]]
+- 2 Guerres Draconiques
+- Conflit de la 3e Guerre Draconique qui marque la fin de l'ère 
+	- Héro Human Fléau-des-Dragons reçoit la 1ère [[Lancedragon]]
+	- Utilisée pour vaincre et exiler [[Takhisis]]
+	- Dragons métalliques du bien partent en retrait pour laisser la place aux civilisations humaines et autres
