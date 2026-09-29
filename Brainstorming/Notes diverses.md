@@ -3,6 +3,8 @@
 - Braquage dans une tour pour récupérer un artefact magique (extension dnd vault)
 - Scénars - objectif aider à l'effort de guerre
 	- acte 0 ?
+	- réveil dans une taverne en pleine bagarre -> garde qui arrive et enferme les joueurs
+	- rançon qui se négocie en mission 
 	- faire ses preuves, 2-3 missions avant de se faire un nom
 	- révélation de la guerre
 	- acte 1 ?
