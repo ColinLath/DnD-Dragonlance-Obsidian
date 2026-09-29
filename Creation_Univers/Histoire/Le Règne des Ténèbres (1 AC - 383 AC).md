@@ -2,3 +2,8 @@
 - L'ère de l'Obscurité (1 AC - 331 AC)
 	- 
 - L'ère des Dragons (332 AC - 383 AC)
+	- Chute du Nordmaar (348 AC)
+	- Alliance avec le Khur (Q1 349 AC)
+	- Balifor et Goodlond absorbés (Q2-Q3 349 AC)
+	- Campagne Silvanesti (Q4 349 AC - 350 AC)
+	- Regroupement des armées (Q1 351 AC)
