@@ -1,0 +1,1 @@
+Les Chercheurs ont formé une théocratie dans la région et ont régné sur plusieurs villes, établissant leur siège à Haven. Cependant, leur règne a pris fin avec la Guerre de la Lance.

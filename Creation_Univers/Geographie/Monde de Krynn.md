@@ -10,37 +10,43 @@ Le continent d'Ansalonie est séparé en de très nombreuses nations qui peuvent
 - [[Région - Le Plein Ouest]]
 - [[Région - Le Nord Ouest]]
 
+Région d'Ansalonie
+- [[Abanasinie]] (région)
+- Balifor (région)
+- Goodlund (région)
+- New Coast (région)
+- Kharolis (région)
+- Taman Busuk (région)
+
 Nations d'Ansalonie
-- [[Abanasinie]]
-- Balifor (Desolation)
-- Blöde
-- Blood Sea Isles
-- Cristyne
-- Enstar
-- Estwilde
-- Goodlund (Desolation)
-- Hylo
-- Kayolin
-- Kern
-- Khur
-- Lemish
+- Blöde (nation)
+- Estwilde (nation)
+- Hylo (nation)
+- Kayolin (nation)
+- Kern (nation)
+- Khur (nation)
+- Lemish (nation)
+- Nightlund (nation)
+- Nordmaar (nation)
+- Qualinesti (nation)
+- Silvanesti (nation)
+- Solamnia (nation)
+- Tarsis (nation)
+- Teyr (nation)
+- Thoradin (nation)
+- Thorbardin (nation)
+- Throt (nation)
+
+Îles d'Ansalonie
+- Îles de la Mer de Sang (îles du nord est : Karthay, Mithas, Kothas)
+- Cristyne (île de l'ouest)
+- Enstar (île de l'ouest)
+- Ergoth du Nord(île de l'ouest)
+- Nostar (île de l'ouest)
+- Sancrist Isle (île de l'ouest)
+- Schallsea (île)
+- Ergoth du Sud (île de l'ouest)
+
+Divers 
 - Minotaur Empire
-- New Coast
-- Nightlund
-- Nordmaar
-- Northern Ergoth
-- Nostar
-- Plains of Dust
-- Principality of Kharolis
-- Qualinesti
-- Sancrist Isle
-- Schallsea
-- Silvanesti
-- Solamnia
-- Southern Ergoth
-- Taman Busuk
-- Tarsis (Nation)
-- Teyr
-- Thoradin (Thorin/Zhakar)
-- Thorbardin
-- Throtl
+- Plaines de Poussière
