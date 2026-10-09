@@ -1,6 +1,6 @@
 La région du Sud-Ouest regroupe les nations
 - [[Schallmer]]
-- [[Abanisie]]
+- [[Abanasinie]]
 - [[Qualinesti]]
 - [[Nostar]]
 - [[Kharolis]]

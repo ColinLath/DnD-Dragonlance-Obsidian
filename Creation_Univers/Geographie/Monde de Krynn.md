@@ -10,3 +10,37 @@ Le continent d'Ansalonie est séparé en de très nombreuses nations qui peuvent
 - [[Région - Le Plein Ouest]]
 - [[Région - Le Nord Ouest]]
 
+Nations d'Ansalonie
+- [[Abanasinie]]
+- Balifor (Desolation)
+- Blöde
+- Blood Sea Isles
+- Cristyne
+- Enstar
+- Estwilde
+- Goodlund (Desolation)
+- Hylo
+- Kayolin
+- Kern
+- Khur
+- Lemish
+- Minotaur Empire
+- New Coast
+- Nightlund
+- Nordmaar
+- Northern Ergoth
+- Nostar
+- Plains of Dust
+- Principality of Kharolis
+- Qualinesti
+- Sancrist Isle
+- Schallsea
+- Silvanesti
+- Solamnia
+- Southern Ergoth
+- Taman Busuk
+- Tarsis (Nation)
+- Teyr
+- Thoradin (Thorin/Zhakar)
+- Thorbardin
+- Throtl
