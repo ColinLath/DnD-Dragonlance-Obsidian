@@ -11,7 +11,7 @@
 	- Enquêter sur la magie du monde
 	- Les mages avec Dieux de la Lune
 	- Les prêtres avec les Dieux
-	- retrouver sceptres bleu qui dit que y a des deux ?
+	- retrouver sceptres bleu qui dit que y a des dieux ?
 	- acte 2 ?
 	- retrouver preuves que les oeufs de dragons métalliques sont corrompus
 	- ramener Paladine et les dragons métalliques dans le combat
