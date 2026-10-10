@@ -6,6 +6,7 @@
 	- réveil dans une taverne en pleine bagarre -> garde qui arrive et enferme les joueurs
 	- rançon qui se négocie en mission 
 	- faire ses preuves, 2-3 missions avant de se faire un nom
+	- Enquêter sur les Chercheurs 
 	- révélation de la guerre
 	- acte 1 ?
 	- Enquêter sur la magie du monde
