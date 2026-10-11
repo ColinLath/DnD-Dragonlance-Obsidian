@@ -1,0 +1,1 @@
+Manoir appartenant actuellement à un vampire, de nombreux morts-vivants se baladent dedans.

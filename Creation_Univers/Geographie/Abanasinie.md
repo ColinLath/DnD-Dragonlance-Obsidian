@@ -38,11 +38,11 @@ Ils cherchent à vaincre facilement les tribus des plaines puis asservir les peu
 - Staughton
 - Tantallon
 - Windy Vale
-- Zaradene
+- [[Zaradene]]
 
 ##### Ruines : 
-- Académie de Sorcellerie 
-- Manoir d'Eld
+- Académie de Sorcellerie (Construite en 412 AC)
+- [[Manoir d'Eld]]
 - Xak Khalan
 - Xak Tsaroth.
 
