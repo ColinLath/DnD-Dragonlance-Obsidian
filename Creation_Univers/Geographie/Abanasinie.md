@@ -7,7 +7,7 @@ La ville sylvestre de Solace est sans doute le village le plus important d'Abana
 ##### L'Âge des Rêves
 Création des centaures, maintenant dans le Bois de la Noirceur 
 ##### L'Âge du Désespoir
-L'Abanasinie ne porte se nom que depuis le cataclysme, avant de nombreuses tribus se partageaient les terres et plaines.
+L'Abanasinie ne porte se nom que depuis le [[Le Cataclysme (0 AC)|Cataclysme]], avant de nombreuses tribus se partageaient les terres et plaines.
 Le Cataclysme a entraîné un retour aux anciens cultes (des ancêtres) et totems, et notamment une nouvelle religion les [[Chercheurs]] fondée sur de faux dieux.
 Beaucoup de villes sont littorales et profitent des routes commerciales maritimes et terrestres.
 Un afflux de mercenaire à permis de contrôler les populations de gobelours, gobelins et brigands.
@@ -18,12 +18,12 @@ Ils cherchent à vaincre facilement les tribus des plaines puis asservir les peu
 # Lieux principaux
 ##### Lieux de peuplement : 
 - Haven (capitale non officielle)
-- Ankatavaka
+- [[Ankatavaka]]
 - Crossing
 - Digfel
 - Esker
 - Gateway
-- Goodbay
+- [[Goodbay]]
 - Long Ridge
 - Munston
 - New Ports

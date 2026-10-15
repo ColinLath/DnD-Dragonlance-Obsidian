@@ -1,4 +1,4 @@
-- L'ère du Pouvoir débute 1000 ans avant le [[Cataclysme]]
+- L'ère du Pouvoir débute 1000 ans avant le [[Le Cataclysme (0 AC)|Cataclysme]]
 - Nations humaines prospèrent et conquièrent une grande partie d'Ansalonie
 - Cité d'Istar devient un empire notamment grâce à son alliance avec les [[Chevaliers Solamniques]]
 	- Est gouvernée par des prêtres-rois qui la considèrent être le centre du monde. 

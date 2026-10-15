@@ -7,4 +7,4 @@ Habitants
 - Les personnes vivant là-bas sont très superstitieuses
 - Certaines personnes n'ont jamais vu d'autre créatures que des humains et des gobelins
 
-NPCs liés
+PNJs liés
