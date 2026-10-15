@@ -24,7 +24,7 @@ Ils cherchent à vaincre facilement les tribus des plaines puis asservir les peu
 - Esker
 - Gateway
 - [[Goodbay]]
-- Long Ridge
+- [[Long Ridge]]
 - Munston
 - New Ports
 - North Keep
