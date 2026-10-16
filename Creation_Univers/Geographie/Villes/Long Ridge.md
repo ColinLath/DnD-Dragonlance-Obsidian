@@ -7,3 +7,4 @@ Habitants
 - La paix règne dans la ville et les habitants sont plutôt satisfaits
 
 PNJs liés
+- [[Menith Olibrun]] : maire de la ville
