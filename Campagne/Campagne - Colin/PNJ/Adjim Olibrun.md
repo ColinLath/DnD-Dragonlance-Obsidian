@@ -8,11 +8,13 @@
 	- Cette dette sert de chantage pour garde [[Elena Miriu]] sous son joug
 
 ### Description Physique
+Grand comme son père Adjim mesure 1m86 mais contrairement à lui, il reste très fin et élancé. Son visage angulaire et ses sourcils froncés lui donne un air menaçant. Il a des courts cheveux en mulet châtains et des yeux bruns perçants.
+Il s'habille en veste colorée avec un pantalon bouffant classe. Ses doigts fins et habiles ont l'air habitués à la manipulation des jetons.
 
 
 ### Compétences 
-`STR -1 | CON +1 | DEX +1`
-`INT +3 | WIS -1 | CHA +2`
+`STR -1 | CON +1 | DEX +2`
+`INT +2 | WIS -1 | CHA +2`
 
 ### Motivations et Répulsifs
 

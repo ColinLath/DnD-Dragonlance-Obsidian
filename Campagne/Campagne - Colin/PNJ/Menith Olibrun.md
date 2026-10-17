@@ -8,7 +8,7 @@
 	- Ancien charpentier, il n'hésite pas à se rendre sur place pour superviser et mettre la main à la patte lors de construction ou réparation.
 
 ### Description Physique
-Menith est une vraie force de la nature, du haut de ses 1m90 il n'est pas difficile de comprendre comment il a pu devenir maire de la ville. Il a des cheveux mi-longs ondulés et bruns et le teint plutôt mate. 
+Menith est une vraie force de la nature, du haut de ses 1m90 il n'est pas difficile de comprendre comment il a pu devenir maire de la ville. Des épaules larges supportent son coup massif et sa tête ronde. Il a des cheveux mi-longs ondulés et bruns, le teint plutôt mate et des yeux marrons. 
 Il est souvent habillés d'un long manteau de cuir (habit traditionnel du maire de Long Ridge) et d'un pantalon serré qui fait ressortir ses mollets. Ses chaussures salies par la poussière et ses mains usées indique qu'il aide aux travaux de la ville en parallèle de ses activités de gestion.
 
 ### Compétences 
