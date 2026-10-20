@@ -8,7 +8,7 @@
 	- Cette dette sert de chantage pour garde [[Elena Miriu]] sous son joug
 
 ### Description Physique
-Grand comme son père Adjim mesure 1m86 mais contrairement à lui, il reste très fin et élancé. Son visage angulaire et ses sourcils froncés lui donne un air menaçant. Il a des courts cheveux en mulet châtains et des yeux bruns perçants.
+Grand comme son père Adjim mesure 1m86 mais contrairement à lui, il reste très fin et élancé. Son visage angulaire d'une vingtaine d'années et ses sourcils froncés lui donne un air menaçant. Il a des courts cheveux en mulet châtains et des yeux bruns perçants.
 Il s'habille en veste colorée avec un pantalon bouffant classe. Ses doigts fins et habiles ont l'air habitués à la manipulation des jetons.
 
 
@@ -26,6 +26,6 @@ Il s'habille en veste colorée avec un pantalon bouffant classe. Ses doigts fins
 ### Relations
 - [[Menith Olibrun]], son père 
 - [[Elena Miriu]], femme forcée d'être sa copine
-- [[Jiron Miriu]], lui doit une belle somme
+- [[Jiron Miriu]], lui doit une belle somme (50 gp)
 
 ### Notes 
