@@ -49,4 +49,8 @@
 - [[Jiron Miriu]], le frère d'Elena 
 - [[Stats blocks|Brigands]], encounter possible
 
-
+### Lieux 
+- Taverne des Sabots de Kharolis, Long Ridge 
+- Prison de Long Ridge 
+- Hall d'audience de Long Ridge 
+- Forêt 
